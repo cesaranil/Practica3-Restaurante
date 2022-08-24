@@ -213,4 +213,13 @@ header .texto h3 {
   max-height: 600px;
 }
 
+footer {
+  background: #000;
+}
+footer .copyright {
+  text-align: center;
+  padding: 10px 0;
+  color: #fff;
+}
+
 /*# sourceMappingURL=style.css.map */
