@@ -152,4 +152,21 @@ header .texto h3 {
   clear: both;
 }
 
+.main .galeria {
+  overflow: hidden;
+}
+.main .galeria .foto {
+  width: 25%;
+  float: left;
+}
+.main .galeria .foto img {
+  width: 100%;
+  vertical-align: top;
+  opacity: 0.7;
+}
+.main .galeria .foto img:hover {
+  opacity: 1;
+  transition: all 0.3s ease;
+}
+
 /*# sourceMappingURL=style.css.map */
